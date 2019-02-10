@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploActivityForResult</string>
+    <string name="main2_button_text">Enviar</string>
+    <string name="main2_textview">Introduce un mensaje:</string>
+    <string name="main1_default_textview">Mensaje por defecto (cambiará al volver de la actividad)</string>
+    <string name="main1_getmessage_button">Obtener mensaje</string>
+</resources>
